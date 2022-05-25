@@ -33,8 +33,6 @@ a{
 li{
     color: white;
     padding-top: 10px;
-    
-   
 }
 /* layout */
 .container{
@@ -45,7 +43,6 @@ li{
 .container-flex{
     display: flex;
     justify-content: space-around;
-    /* wrap test */
     flex-wrap: wrap;
 }
 /* item */
