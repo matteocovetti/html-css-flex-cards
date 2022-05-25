@@ -9,11 +9,17 @@ body{
     font-family: 'Fredoka', sans-serif;
 
 }
+/*
+main{
+    padding-top: 50px;
+}
+*/
 p{
     text-align: center;
 }
 h1{
     text-align: center;
+    margin-bottom: 50px;
 }
 ul{
     list-style: none;
@@ -41,6 +47,11 @@ li{
     flex-wrap: wrap;
 }
 /* item */
+.item{
+    width: 32%;
+    padding: 20px;
+    
+}
 .item img{
     width: 50px;
 }
