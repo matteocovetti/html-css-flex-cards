@@ -7,4 +7,44 @@
 /* commons */
 body{
     font-family: 'Fredoka', sans-serif;
+
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+    
+}
+li{
+    background-color: black;
+    color: white;
+   
+}
+/* layout */
+.container{
+    width: 60%;
+    margin: 0;
+    margin-left: 20%;
+}
+.container-flex{
+    display: flex;
+    justify-content: space-around;
+    /* wrap test */
+    flex-wrap: wrap;
+}
+/* item */
+.item img{
+    width: 50px;
+}
+.item-flex{
+    display: flex;
+    justify-content: center;
 }
