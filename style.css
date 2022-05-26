@@ -36,9 +36,8 @@ li{
 }
 /* layout */
 .container{
-    width: 60%;
-    margin: 0;
-    margin-left: 20%;
+    max-width: 1100px;
+    margin: 0 auto;
 }
 .container-flex{
     display: flex;
